@@ -33,13 +33,13 @@
       "id": "3d9a992d-b8f7-43fa-a66f-d7931a47b8da",
       "role": "user",
       "content": "I want to make one website which will be about me and all about me but the website should be attractive and best one just like portfolio which i can add in my job profile and intership profile for applying for job and internship to get best job",
-      "status": "pending",
+      "status": "cancelled",
       "model": "gemini-3.8-flash-high",
       "client_type": "gemini-bridge",
       "parent_message_id": null,
       "created_at": "2026-10-07T14:49:17.543Z",
       "sender": "ios",
-      "is_cancelled": false
+      "is_cancelled": true
     }
   ]
 }
